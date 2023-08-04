@@ -1,0 +1,6 @@
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.csproj.AssemblyReference.cache
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.GeneratedMSBuildEditorConfig.editorconfig
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.AssemblyInfoInputs.cache
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.AssemblyInfo.cs
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.csproj.CoreCompileInputs.cache
+/Users/norberto/dev/otel-dotnet/obj/Debug/net7.0/trick.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,6 @@
+dotnetapp/bin
+dotnetapp/obj
+ServiceTwo/obj
+ServiceTwo/bin
+OtelConfiguration/bin
+OtelConfiguration/obj
