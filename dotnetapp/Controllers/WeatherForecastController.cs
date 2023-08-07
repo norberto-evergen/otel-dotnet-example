@@ -36,7 +36,7 @@ public class WeatherForecastController : ControllerBase
         // span.SetAttribute("operation.name", "Saying hello!");
         // span.SetAttribute("operation.other-stuff", new int[] { 1, 2, 3 });
 
-        span.AddEvent(
+        span?.AddEvent(
             "Some event or error",
             DateTimeOffset.Now
         );
@@ -46,6 +46,8 @@ public class WeatherForecastController : ControllerBase
             new("Controller", "WeatherForecastController"));
 
         ServiceTwo.HelloMessage.DoMessage();
+
+        span?.End();
 
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {

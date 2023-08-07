@@ -21,5 +21,7 @@ public static class HelloMessage
             new("Method", "DoMessage"));
 
         Console.WriteLine(message);
+
+        span?.End();
     }
 }
